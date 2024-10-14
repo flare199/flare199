@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-C,%20C++,%20C#,%20Java,%20Kotlin,%20Golang,%20JavaScript,%20PHP,%20Python,%20HTML5-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tools-Docker,%20Kubernetes,%20Azure,%20AWS,%20Linux-critical?style=for-the-badge" />
 </p>
 
 ```shell

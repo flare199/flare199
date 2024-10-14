@@ -1,6 +1,13 @@
-Hi im Flare199
+<h1 align="center">Flare199's Page</h1>
 
-Welcome to my profile
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-C,%20C++,%20C#,%20Java,%20Kotlin,%20Golang,%20JavaScript,%20PHP,%20Python,%20HTML5-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools-Docker,%20Kubernetes,%20Azure,%20AWS,%20Linux-critical?style=for-the-badge" />
+</p>
+
+```shell
+$ whoami
+> Flare199 [Developer | Engineer | Code Enthusiast]
 
 <!---
 flare199/flare199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
